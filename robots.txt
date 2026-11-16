@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pembrokeelectrician.ca/sitemap-index.xml
